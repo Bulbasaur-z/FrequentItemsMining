@@ -25,7 +25,6 @@ def seqFunc2(x, y):
     x.append(y)
     return x
 
-
 # when setSize greater than 2
 def candidateConstruct(chunkThreshold, setSize, chunk, filterSets):
     candidate = dict()
